@@ -1,0 +1,8 @@
+Package: com.hermes.keychaincleaner
+Name: Keychain Cleaner
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: 清除指定 App 的 Keychain 数据 (在设置中操作)
+Maintainer: hermes
+Section: Tweaks
+Depends: preferenceloader, sqlite3
